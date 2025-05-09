@@ -33,7 +33,7 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github.com/juliasydor/wePlayReact" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" />
 </p>
 
