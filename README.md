@@ -32,7 +32,7 @@
 
 ### 📂 Repositórios em Destaque
 
-- [**Meu Projeto Incrível**](https://github.com/juliasydor/wePlayReact) — Esse foi uns dos meus primeiros projetos do github.
+- [**WePlay**](https://github.com/juliasydor/wePlayReact) — Esse foi uns dos meus primeiros projetos do github.
 
 ---
 
